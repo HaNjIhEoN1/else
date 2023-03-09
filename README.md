@@ -8,9 +8,15 @@ prerequisite : JAVA environment
 ## INDEX
 1. Install FASTQC
 2. In LINUX
+3. Result file interpret
 
 ## 1. Install FASTQC
   1) sudo apt-get update
   2) sudo apt-get install fastqc
 
 ## 2. In LINUX
+
+## 3. Result gile interpret
+  1) unzip result file
+  2) go to unzip file
+  3) click html file
